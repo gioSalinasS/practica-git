@@ -1,0 +1,8 @@
+Git es un software de control de versiones gratis y de código abierto. Fue creado por Linus Torvalds en 2005. Esta herramienta es un sistema de control de versiones que fue inicialmente desarrollado 
+para trabajar con varios desarrolladores en el núcleo de Linux.
+
+Si queremos empezar a usar Git, necesitamos saber dónde alojar nuestros repositorios.Un repositorio (o "Repo" para abreviar) es un proyecto que contiene múltiples archivos. En nuestro caso un 
+repositorio contendrá archivos basados en código.
+
+Casi todos los proyectos de código abierto utilizan GitHub para gestionar sus proyectos. Usar GitHub es gratis si tu proyecto es de código abierto, e incluye un wiki y un rastreador de problemas que 
+facilita la inclusión de documentación más detallada y recibir retroalimentación sobre tu proyecto.
