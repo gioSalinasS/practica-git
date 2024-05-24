@@ -6,3 +6,21 @@ repositorio contendrá archivos basados en código.
 
 Casi todos los proyectos de código abierto utilizan GitHub para gestionar sus proyectos. Usar GitHub es gratis si tu proyecto es de código abierto, e incluye un wiki y un rastreador de problemas que 
 facilita la inclusión de documentación más detallada y recibir retroalimentación sobre tu proyecto.
+
+Github es un portal creado para alojar el código de las aplicaciones de 
+cualquier desarrollador, y que fue comprada por Microsoft en junio del 
+2018. La plataforma está creada para que los desarrolladores suban el 
+código de sus aplicaciones y herramientas, y que como usuario no sólo 
+puedas descargarte la aplicación, sino también entrar a su perfil para 
+leer sobre ella o colaborar con su desarrollo.
+
+Como su nombre indica, la web utiliza el sistema de control de versiones 
+Git diseñado por Linus Torvalds. Un sistema de gestión de versiones es 
+ese con el que los desarrolladores pueden administrar su proyecto, 
+ordenando el código de cada una de las nuevas versiones que sacan de sus 
+aplicaciones para evitar confusiones.
+
+Las principales características de la plataforma es que ofrece las 
+mejores características de este tipo de servicios sin perder la 
+simplicidad, y es una de las más utilizadas del mundo por los 
+desarrolladores.
