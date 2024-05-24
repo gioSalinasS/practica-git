@@ -1,0 +1,4 @@
+Su influencia va más allá de ser una plataforma de alojamiento de código; GitHub ha redefinido la colaboración, facilitado el aprendizaje y defendido el espíritu del movimiento de código abierto.
+
+Imaginemos que dentro de cincuenta años, cuando los historiadores y tecnólogos echen la vista atrás para analizar las herramientas que dieron forma a la era digital, el nombre de GitHub brillará con luz 
+propia, y su papel en el fomento de una cultura de colaboración, apertura y crecimiento colectivo en la comunidad de desarrolladores será recordado y celebrado.
