@@ -1,0 +1,7 @@
+El control de versiones, en esencia, es la gestión meticulosa de los cambios realizados en un conjunto de archivos, a menudo el código fuente de los programas, a lo largo del tiempo.
+
+GitHub proporciona una interfaz que facilita este proceso, pero hace mucho más que seguir los cambios.
+
+A través de GitHub, los usuarios pueden colaborar en tiempo real en los proyectos, de modo que si estás trabajando en un proyecto, tus compañeros de equipo también pueden hacer sus cambios, enviarlos 
+para su revisión y luego fusionarlos en el proyecto en vivo.
+La importancia de esta plataforma radica en su influencia en la era digital y en el mundo del desarrollo de software.
