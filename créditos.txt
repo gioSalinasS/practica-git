@@ -1,0 +1,5 @@
+Desarrollador: Alejandro Giovanni Salinas Sanchez.
+Edad: 22 años.
+Fecha de nacimiento: 16 diciembre 2001
+Carrera: Desarrollo y Gestion de Software.
+Trabajo: Practica-git
